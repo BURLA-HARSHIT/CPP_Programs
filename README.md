@@ -9,4 +9,4 @@
   A)Print N in a reversed order and not leadings Zeros.
   B)If N is a palindrome number print "Yes" ortherwise,print "No".
 
-Write a CPP Program to read two variables and print the sum of those two variables.
+5.Write a CPP Program to read two variables and print the sum of those two variables.

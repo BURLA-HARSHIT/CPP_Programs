@@ -8,3 +8,5 @@
 4.Given a number M.Print 2 lines that contains the following respectively.
   A)Print N in a reversed order and not leadings Zeros.
   B)If N is a palindrome number print "Yes" ortherwise,print "No".
+
+Write a CPP Program to read teo variables and print the sum of those two variables.

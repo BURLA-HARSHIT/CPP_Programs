@@ -10,3 +10,5 @@
   B)If N is a palindrome number print "Yes" ortherwise,print "No".
 
 5.Write a CPP Program to read two variables and print the sum of those two variables.
+
+6.Write a CPP Program to read two variables and print all arthmetic operations.

@@ -14,3 +14,5 @@
 6.Write a CPP Program to read two variables and print all arthmetic operations.
 
 7.Write a CPP Program to check the given number is Even or Odd based on the last digit.
+
+8. Write a CPP Program to read an integer n from the user,then read n elements into an array and display the elements of an array.

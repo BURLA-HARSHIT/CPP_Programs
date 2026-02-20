@@ -16,3 +16,5 @@
 7.Write a CPP Program to check the given number is Even or Odd based on the last digit.
 
 8. Write a CPP Program to read an integer n from the user,then read n elements into an array and display the elements of an array.
+
+9.Write a CPP Program to read an integer n representing the number of elements in on array.Find maximum and minimum of the vaues.

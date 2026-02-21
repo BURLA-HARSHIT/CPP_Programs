@@ -18,3 +18,5 @@
 8. Write a CPP Program to read an integer n from the user,then read n elements into an array and display the elements of an array.
 
 9.Write a CPP Program to read an integer n representing the number of elements in on array.Find maximum and minimum of the vaues.
+
+10.Write a PP Program to read an integer n representing the size of the array.Print the number less than or equal to 10.
